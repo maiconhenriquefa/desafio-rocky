@@ -1,0 +1,158 @@
+/* Redimensionamento largo: início */
+@media (max-width: 1300px) {
+  html, body{
+    font-size: 58%;
+  }
+
+  #services-img img {
+    width: 32.0rem;
+    opacity: 0.9;
+    filter: brightness(40%);
+  }
+}
+/* Redimensionamento largo: fim */
+/* Redimensionamento médio: início */
+@media (max-width: 970px) {  
+  #container{ 
+    height: 100%;
+    margin: 0;
+    overflow: hidden;
+  } 
+
+  .about-description {
+    width: 100%;
+  }
+
+  section{
+    height: 80vh;
+    width: auto;
+    padding: 0 5.0rem;
+  }
+
+  main {
+    background-image: none;
+  }
+  
+  #start header {
+    display: none;
+  }
+
+  #start button a{
+    font-weight: 700;
+    font-size: var(--default);
+    padding: 10px;
+  }
+
+  #start p {
+    font-size: var(--default);
+    font-weight:400;
+    letter-spacing: .2px;
+    line-height: 15px;
+    height: 40px;
+    width: 80%;
+  }
+
+  #start{
+    height: 100vh;
+  }
+  #services {
+    height: 100%;
+  }
+  #differentials{
+    height: 100%;
+  }
+
+  .options{
+    flex-direction: column;
+    width: 100%;
+  }
+
+  #services-img1{
+    background-image: url(/mobile/img/s3\ ft1.png);
+    background-size:cover;
+    width: 45.0rem;
+  }
+
+  #services-img2{
+    background-image: url(/mobile/img/s3\ ft2.png);
+    background-size:cover;
+    width: 45.0rem;
+  }
+
+  #services-img3{
+    background-image: url(/mobile/img/s3\ ft3.png);
+    background-size:cover;
+    width: 45.0rem;
+  }
+
+  #differentials-img1{
+    background-image: url(/mobile/img/s4\ ft1.png);
+    background-size:cover;
+    width: 40.0rem;
+  }
+  
+  #differentials-img2{
+    background-image: url(/mobile/img/s4\ ft2.png);
+    background-size:cover;
+    width: 40.0rem;
+  }
+
+  #differentials-img3{
+    background-image: url(/mobile/img/s4\ ft3.png);
+    background-size:cover;
+    width: 40.0rem;
+  }
+
+  #start h1 {
+    margin-top: 5.0rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: calc(var(--h1) - 2.0rem);
+    color: var(--cor-white-1);
+    line-height: 12.8rem;
+  }
+
+  ul > li, li > a{
+    font-size: calc(var(--list) - .2rem);
+    margin: .5rem;
+  }
+  #menu{
+    justify-content: center;
+  }
+
+  #contact {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+  }
+
+  .about-contact  {
+    width: 100%;
+    height: 70vh;
+  }
+
+  .form{
+    width: 100%;
+    height: 100%;
+  }
+
+  #services-img img {
+    width: 60%;
+    opacity: 0.9;
+    filter: brightness(40%);
+  }
+
+  #differentials-img {
+    width: 60%;
+    height: 60%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+  }
+
+  footer{
+    height: 100%;
+  }
+}
+/* Redimensionamento médio: fim */

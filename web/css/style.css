@@ -40,7 +40,7 @@ section {
 }
 
 main {
-  background-image: url(./img/background-2.png);
+  background-image: url(../img/background-2.png);
   background-repeat: no-repeat;
   background-size: 1500px;
   background-position: center;
@@ -57,7 +57,7 @@ main {
 
 /* Seção inicial: início */
 #start {
-  background-image: url(./img/background-1.png);
+  background-image: url(../img/background-1.png);
   background-repeat: no-repeat;
   background-position: center;
   overflow: hidden;

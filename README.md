@@ -1,5 +1,5 @@
 # Desafio Rocky
-Site responsivo desenvolvido para o desafio da Rocky
+Site responsivo desenvolvido para o desafio da <strong>Rocky</strong>
 
 ## Executando o projeto
 1. Baixe o projeto
@@ -14,3 +14,5 @@ git clone https://github.com/maiconhenriquefa/desafio-rocky.git
 - Função de JavaScript
 - Qualidade do site
 - Utilização das principais Tags de SEO
+
+Se quiser somente acessar a página clique aqui: https://maiconhenriquefa.github.io/desafio-rocky/

@@ -197,7 +197,7 @@ li > a {
 }
 
 #services-img1 {
-  background-image: url(./web/img/option-small-1.png);
+  background-image: url(../img/option-small-1.png);
   background-position: center;
   background-size: 35.5rem;
   background-repeat: no-repeat;
@@ -210,7 +210,7 @@ li > a {
 }
 
 #services-img2 {
-  background-image: url(./web/img/option-small-2.png);
+  background-image: url(../img/option-small-2.png);
   background-position: center;
   background-size: 35.5rem;
   background-repeat: no-repeat;
@@ -223,7 +223,7 @@ li > a {
 }
 
 #services-img3 {
-  background-image: url(./web/img/option-small-3.png);
+  background-image: url(../img/option-small-3.png);
   background-position: center;
   background-size: 35.5rem;
   background-repeat: no-repeat;
@@ -273,7 +273,7 @@ li > a {
   justify-content: space-around;
 }
 #differentials-img1 {
-  background-image: url(./web/img/option-medium-1.png);
+  background-image: url(../img/option-medium-1.png);
   background-position: center;
   background-size: 35.5rem;
   background-repeat: no-repeat;
@@ -286,7 +286,7 @@ li > a {
 }
 
 #differentials-img2 {
-  background-image: url(./web/img/option-medium-2.png);
+  background-image: url(../img/option-medium-2.png);
   background-position: center;
   background-size: 35.5rem;
   background-repeat: no-repeat;
@@ -299,7 +299,7 @@ li > a {
 }
 
 #differentials-img3 {
-  background-image: url(./web/img/option-medium-3.png);
+  background-image: url(../img/option-medium-3.png);
   background-position: center;
   background-size: 35.5rem;
   background-repeat: no-repeat;

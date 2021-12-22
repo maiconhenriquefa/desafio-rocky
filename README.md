@@ -1,5 +1,5 @@
 # Desafio Rocky
-Site responsivo desenvolvido para o desafio da Rocky.
+Site responsivo desenvolvido para o desafio da Rocky
 
 ## Executando o projeto
 1. Baixe o projeto
@@ -7,7 +7,7 @@ Site responsivo desenvolvido para o desafio da Rocky.
 git clone https://github.com/maiconhenriquefa/desafio-rocky.git
 ~~~
 2. Execute o projeto 
-
+  - Abra o arquivo `index.html` no navegador de sua preferência
 ## Critérios considerados
 - Responsividade
 - Estrutura do HTML e CSS
